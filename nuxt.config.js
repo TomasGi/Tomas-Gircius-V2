@@ -1,5 +1,8 @@
 
 export default {
+  // router: {
+  //   base: '/testnuxt/'
+  // },
   mode: 'universal',
   /*
   ** Headers of the page

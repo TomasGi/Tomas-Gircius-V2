@@ -8,8 +8,12 @@
                 </button>
             </div>
             <nav>
-                <div data-ref=".contact" class="item can-toggle-menu scroll-toggle">Contact</div>
-                <div data-ref=".canvas-holder" class="item can-toggle-menu scroll-toggle">Tech</div>
+                <nuxt-link to="/" data-ref=".contact" class="item can-toggle-menu scroll-toggle">
+                    Contact
+                </nuxt-link>
+                <nuxt-link to="/" data-ref=".canvas-holder" class="item can-toggle-menu scroll-toggle">
+                    Tech
+                </nuxt-link>
             </nav>
         </div>
     </div>

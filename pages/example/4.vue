@@ -58,7 +58,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/log/1.jpg'
+                                    src: 'images/log/1.jpg'
                                 }
                             })
                         ])
@@ -74,7 +74,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/log/2.jpg'
+                                    src: 'images/log/2.jpg'
                                 }
                             })
                         ])
@@ -90,7 +90,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/log/3.jpg'
+                                    src: 'images/log/3.jpg'
                                 }
                             })
                         ])
@@ -106,7 +106,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/log/4.jpg'
+                                    src: 'images/log/4.jpg'
                                 }
                             })
                         ])
@@ -122,7 +122,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/log/5.jpg'
+                                    src: 'images/log/5.jpg'
                                 }
                             })
                         ])
@@ -138,7 +138,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/log/6.jpg'
+                                    src: 'images/log/6.jpg'
                                 }
                             })
                         ])

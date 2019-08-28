@@ -67,7 +67,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/ler/1.jpg'
+                                    src: 'images/ler/1.jpg'
                                 }
                             })
                         ])
@@ -83,7 +83,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/ler/2.jpg'
+                                    src: 'images/ler/2.jpg'
                                 }
                             })
                         ])
@@ -99,7 +99,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/ler/3.jpg'
+                                    src: 'images/ler/3.jpg'
                                 }
                             })
                         ])
@@ -115,7 +115,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/ler/4.jpg'
+                                    src: 'images/ler/4.jpg'
                                 }
                             })
                         ])

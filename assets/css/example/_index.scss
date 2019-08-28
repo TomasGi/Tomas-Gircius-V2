@@ -16,6 +16,8 @@
             display: flex;
             justify-content: center;
             width: 100%;
+            height: calc(100vh - 114px);
+            max-height: 350px;
             
             @media (min-width: 768px) {
                 height: calc(100vh - 114px);
@@ -25,11 +27,7 @@
     }
 
     ul {
-        // height: calc(100vh - 114px);
-        // max-height: 70vh;
         position: relative;
-
-        
 
         li {
             img {
@@ -49,7 +47,6 @@
      }
     .item {
         margin: 20px 0;
-        border: 0px 1px 1px 1px solid #000;
 
         &:nth-child(1) {
             margin-top: 0;

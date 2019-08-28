@@ -67,7 +67,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/vait/1.jpg'
+                                    src: 'images/vait/1.jpg'
                                 }
                             })
                         ])
@@ -83,7 +83,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/vait/2.jpg'
+                                    src: 'images/vait/2.jpg'
                                 }
                             })
                         ])
@@ -99,7 +99,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/vait/3.jpg'
+                                    src: 'images/vait/3.jpg'
                                 }
                             })
                         ])

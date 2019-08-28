@@ -64,7 +64,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/sam/1.jpg'
+                                    src: 'images/sam/1.jpg'
                                 }
                             })
                         ])
@@ -80,7 +80,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/sam/2.jpg'
+                                    src: 'images/sam/2.jpg'
                                 }
                             })
                         ])
@@ -96,7 +96,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/sam/3.jpg'
+                                    src: 'images/sam/3.jpg'
                                 }
                             })
                         ])
@@ -113,7 +113,7 @@ export default {
                     }, [
                             createElement('img', {
                                 attrs: {
-                                    src: '/images/sam/4.jpg'
+                                    src: 'images/sam/4.jpg'
                                 }
                             })
                         ])

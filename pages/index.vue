@@ -8,15 +8,15 @@
       </div>
     </div>
     <div class="content-work">
-      <nuxt-link to="/example/1/" class="item" style="background-image:url('/images/1.jpg');"></nuxt-link>
-      <nuxt-link to="/example/2/" class="item" style="background-image:url('/images/3.jpg');"></nuxt-link>
-      <nuxt-link to="/example/3/" class="item" style="background-image:url('/images/2.jpg');"></nuxt-link>
-      <nuxt-link to="/example/4/" class="item" style="background-image:url('/images/log/2.jpg');"></nuxt-link>
+      <nuxt-link to="/example/1/" class="item" style="background-image:url('images/1.jpg');"></nuxt-link>
+      <nuxt-link to="/example/2/" class="item" style="background-image:url('images/3.jpg');"></nuxt-link>
+      <nuxt-link to="/example/3/" class="item" style="background-image:url('images/2.jpg');"></nuxt-link>
+      <nuxt-link to="/example/4/" class="item" style="background-image:url('images/log/2.jpg');"></nuxt-link>
     </div>
     <div class="canvas-holder">
       <div class="item">
         <h3>Tech I'm comfortable working with</h3>
-        <canvas width="540" height="460" id="canvas-skills">
+        <canvas width="540" height="360" id="canvas-skills">
             <ul class="quicksand">
               <li><a href="#">HTML</a></li>
               <li><a href="#">CSS</a></li>
@@ -36,7 +36,7 @@
       </div>
       <div class="item">
         <h3>Tech I'm trying to improve on</h3>
-        <canvas width="540" height="460" id="canvas-skills-meh">
+        <canvas width="540" height="360" id="canvas-skills-meh">
             <ul class="quicksand">
               <li><a href="#">LARAVEL</a></li>
               <li><a href="#">NODE</a></li>
