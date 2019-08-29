@@ -94,10 +94,16 @@ export default {
       initial: [0.2, 0]
     }
 
-    document.fonts.ready.then(() => {
+    try {
+      document.fonts.ready.then(() => {
+        TagCanvas.Start('canvas-skills', '', cloudOptions);
+        TagCanvas.Start('canvas-skills-meh', '', cloudOptions);
+      })
+    } catch(e) {
       TagCanvas.Start('canvas-skills', '', cloudOptions);
       TagCanvas.Start('canvas-skills-meh', '', cloudOptions);
-    })
+    }
+
   }
 }
 </script>

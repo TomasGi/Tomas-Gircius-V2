@@ -1,7 +1,7 @@
 
 export default {
   // router: {
-  //   base: '/testnuxt/'
+  //   base: '/Tomas-Gircius-V2/'
   // },
   mode: 'universal',
   /*
