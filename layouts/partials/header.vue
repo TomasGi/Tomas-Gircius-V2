@@ -10,7 +10,7 @@
                 class="header-title quicksand scroll-toggle">
                 TOMAS
                 </nuxt-link>
-                <a href="https://github.com/TomasGi" target="_blank" title="GitHub" class="right-tab">
+                <a href="https://github.com/TomasGi" rel="noopener" target="_blank" title="GitHub" class="right-tab">
                     <img src="github.svg" alt="GitHub">
                 </a>
             </div>

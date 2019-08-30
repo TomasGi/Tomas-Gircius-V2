@@ -8,10 +8,10 @@
       </div>
     </div>
     <div class="content-work">
-      <nuxt-link to="/example/1/" class="item" style="background-image:url('images/1.jpg');"></nuxt-link>
-      <nuxt-link to="/example/2/" class="item" style="background-image:url('images/3.jpg');"></nuxt-link>
-      <nuxt-link to="/example/3/" class="item" style="background-image:url('images/2.jpg');"></nuxt-link>
-      <nuxt-link to="/example/4/" class="item" style="background-image:url('images/log/2.jpg');"></nuxt-link>
+      <nuxt-link to="/example/1/" aria-label="Example 1" class="item" style="background-image:url('images/1.jpg');"></nuxt-link>
+      <nuxt-link to="/example/2/" aria-label="Example 2" class="item" style="background-image:url('images/3.jpg');"></nuxt-link>
+      <nuxt-link to="/example/3/" aria-label="Example 3" class="item" style="background-image:url('images/2.jpg');"></nuxt-link>
+      <nuxt-link to="/example/4/" aria-label="Example 4" class="item" style="background-image:url('images/log/2.jpg');"></nuxt-link>
     </div>
     <div class="canvas-holder">
       <div class="item">
@@ -30,7 +30,6 @@
               <li><a href="#">PHP</a></li>
               <li><a href="#">SYMFONY</a></li>
               <li><a href="#">MYSQL</a></li>
-              <!-- <li><a href="#">Google</a></li> -->
             </ul>
         </canvas>
       </div>
@@ -40,7 +39,6 @@
             <ul class="quicksand">
               <li><a href="#">LARAVEL</a></li>
               <li><a href="#">NODE</a></li>
-              <!-- <li><a href="#">Google</a></li> -->
             </ul>
         </canvas>
       </div>
